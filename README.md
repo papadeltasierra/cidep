@@ -4,6 +4,22 @@ Two modern ports of the original Chemically Induced Dynamic Electron
 Polarisation simulator. Original source remains in [FORTRAN77](FORTRAN77).
 See [MIGRATION.md](MIGRATION.md) for numerical decisions and compatibility limits.
 
+## Acknowlegements
+
+CIDEP was written at the University of Oxford Physical Chemistry Department
+by the group led by Professor Keith McLauchlan FRS, Emeritus Professor.
+
+Other faculty and students contributed to making this program run on a
+PDP-11/23, Norsk Data mini-computer and later MS-DOS PCs.
+
+This port has been done by Paul D.Smith, D.Phil, a former student of Professor
+McLauchlan, using AI to generate implementations in Jupyter Notebooks and
+Microsoft C#.  The original FORTRAN-77 code on which this it is based, which is
+itself a port to a 16-bit MS-DOS PC, is present in this repo.
+
+No attempt has been made to validate these implementations beyond a casual look
+to see if they "appear correct".
+
 ## Build and Run
 
 See [BUILD.md](BUILD.md) for prerequisites, environment setup, rebuilding the

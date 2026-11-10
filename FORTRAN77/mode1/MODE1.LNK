@@ -1,0 +1,11 @@
+mode1 +
+screen +
+scrnbox +
+scrnplot +
+scrncurs
+mode1
+nul
+c:\gph\asm\graph.lib +
+c:\ftn\ +
+/E
+

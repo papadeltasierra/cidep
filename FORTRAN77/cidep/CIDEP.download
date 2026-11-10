@@ -1,0 +1,14 @@
+cidep    stm      clr_rpm  stick +
+pol_fld  tm_pol   stm_pol  lineshpe +
+plots    exchline files    msg_inpt +
+calc_etc +
+..\mode1\screen +
+..\mode1\scrnbox +
+..\mode1\scrnstck +
+..\mode1\scrnplot +
+..\mode1\scrncurs
+cidep.exe
+nul
+c:\gph\asm\graph.lib +
+c:\ftn\ +
+/E

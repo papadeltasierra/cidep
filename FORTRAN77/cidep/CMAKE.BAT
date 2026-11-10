@@ -1,0 +1,1 @@
+@make /s cidep.mak

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Cidep.Core/Cidep.Core.csproj" />
+  <Project Path="Cidep.App/Cidep.App.csproj" />
+  <Project Path="Cidep.Tests/Cidep.Tests.csproj" />
+</Solution>

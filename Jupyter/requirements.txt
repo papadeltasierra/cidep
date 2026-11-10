@@ -1,0 +1,7 @@
+numpy>=2.0,<3
+scipy>=1.14,<2
+matplotlib>=3.9,<4
+ipywidgets>=8.1,<9
+ipympl>=0.9,<1
+jupyterlab>=4.2,<5
+nbconvert>=7.16,<8
